@@ -16,7 +16,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
-      <removed_mapping ext="wxss" approved="true" type="Wxss" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
   </component>
