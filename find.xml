@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.md</mask>
     <mask>*.wxml</mask>
     <mask>*.xml</mask>
@@ -23,5 +19,6 @@
     <mask>*.cjs</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
