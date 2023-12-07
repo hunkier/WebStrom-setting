@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.deploy_git;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc" />
+  <component name="FileTypeManager" version="19">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.deploy_git;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="RuleTreeView.vue" type="Native" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
