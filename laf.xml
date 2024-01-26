@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager">
-    <laf themeId="JetBrainsLightTheme" />
+    <laf themeId="ExperimentalLight" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Default" />
     </lafs-to-previous-schemes>
