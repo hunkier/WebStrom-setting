@@ -1,5 +1,5 @@
 <application>
-  <component name="LafManager">
+  <component name="LafManager" autodetect="true">
     <laf themeId="ExperimentalLight" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Default" />
